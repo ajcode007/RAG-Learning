@@ -9,3 +9,10 @@ sentence-transformers
 pypdf
 python-dotenv
 pyMupdf
+unstructured
+pdfminer
+python-docx
+docx2txt
+unstructured[docx]
+pandas
+openpyxl
