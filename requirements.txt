@@ -17,3 +17,5 @@ unstructured[docx]
 pandas
 openpyxl
 jq
+## Embeddings
+langchain-huggingface

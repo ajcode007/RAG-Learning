@@ -1,1 +1,13 @@
 note.md
+2-Vector Stores/Data
+
+# Ignore ChromaDB database files/directories
+chroma.db
+**/chroma.db
+2-Vector Stores/chroma.db
+
+# Ignore data folders (common names)
+Data/
+data/
+
+.env
